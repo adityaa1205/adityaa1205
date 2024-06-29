@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a Interest in  
 
 Here are some of the projects I've been working on:
 
-1. **[Sentiment Analysis]((https://github.com/adityaa1205/Sentiment-Analysis)):**
+1. **[Sentiment Analysis](https://github.com/adityaa1205/Sentiment-Analysis):**
    - Description: The Sentiment Analysis Project is designed to analyze and classify the sentiment of textual data. Sentiment analysis, also known as opinion mining, involves using natural language processing (NLP) and machine learning techniques to determine whether a given piece of text expresses a positive, negative, or neutral sentiment.
-   - Technologies: Python 
-  - Natural Language Processing: NLTK,
-  - Machine Learning: keras
-  - Data Manipulation: matplotlib.
-  - web dev: streamlit.
+   - Technologies: Python
+   -  Natural Language Processing: NLTK,
+   -  Machine Learning: keras
+   -  Data Manipulation: matplotlib.
+   -  web dev: streamlit.
 
 2. **[Driver Drowsiness Detection System](link-to-project-2):**
    - Description: Brief description of what the project is about.
@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out to me through the following platforms:
 
-- **Email:** [adityaktiwari1205@gmail.com]
+- **Email:** **(adityaktiwari1205@gmail.com)**
 - **LinkedIn:** [https://www.linkedin.com/in/aditya-tiwari-606b61259]
 - **Twitter:** [https://twitter.com/AdityaT80232299]
 
