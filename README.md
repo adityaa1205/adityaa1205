@@ -27,7 +27,7 @@ Here are some of the projects I've been working on:
    - Description: Brief description of what the project is about.
    - Technologies: JavaScript, React, etc.
 
-3. **[Snake Game using python]((https://github.com/adityaa1205/Snake-Game)):**
+3. **[Snake Game using python](https://github.com/adityaa1205/Snake-Game):**
    - Description: Brief description of what the project is about.
    - Technologies: Python, Pandas, etc.
 
